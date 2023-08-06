@@ -1,0 +1,33 @@
+2023-08-06 03:56:20.267454 - Initialized conversion of CBT411
+2023-08-06 03:56:20.514166 - Received CBT.V505.FILE411.PDS from FILE411.XMI 
+2023-08-06 03:56:20.516564 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE411.PDS, moved to PDS/$$$#DATE
+2023-08-06 03:56:20.517849 - Found $$INDEX.txt (text/plain) in CBT.V505.FILE411.PDS, moved to PDS/$$INDEX
+2023-08-06 03:56:20.518791 - Found @FILE411.txt (text/plain) in CBT.V505.FILE411.PDS, moved to PDS/@FILE411
+2023-08-06 03:56:20.520017 - Found @FILE412.txt (text/plain) in CBT.V505.FILE411.PDS, moved to PDS/@FILE412
+2023-08-06 03:56:20.521188 - Found CONFIGX$.txt (text/plain) in CBT.V505.FILE411.PDS, moved to PDS/CONFIGX$
+2023-08-06 03:56:20.522134 - Found CONFIGXX.txt (text/plain) in CBT.V505.FILE411.PDS, moved to PDS/CONFIGXX
+2023-08-06 03:56:20.523097 - Found DDDEFCH$.txt (text/plain) in CBT.V505.FILE411.PDS, moved to PDS/DDDEFCH$
+2023-08-06 03:56:20.523953 - Found DDDEFPT$.txt (text/plain) in CBT.V505.FILE411.PDS, moved to PDS/DDDEFPT$
+2023-08-06 03:56:20.524796 - Found DELNOEN$.txt (text/plain) in CBT.V505.FILE411.PDS, moved to PDS/DELNOEN$
+2023-08-06 03:56:20.525656 - Found DELNOEN@.txt (text/plain) in CBT.V505.FILE411.PDS, moved to PDS/DELNOEN@
+2023-08-06 03:56:20.526627 - Found DELNOENQ.txt (text/plain) in CBT.V505.FILE411.PDS, moved to PDS/DELNOENQ
+2023-08-06 03:56:20.527505 - Found IEFACTR$.txt (text/plain) in CBT.V505.FILE411.PDS, moved to PDS/IEFACTR$
+2023-08-06 03:56:20.528390 - Found IEFACTRT.txt (text/plain) in CBT.V505.FILE411.PDS, moved to PDS/IEFACTRT
+2023-08-06 03:56:20.529287 - Found LISTMEM.txt (text/plain) in CBT.V505.FILE411.PDS, moved to PDS/LISTMEM
+2023-08-06 03:56:20.530220 - Found LISTSY$.txt (text/plain) in CBT.V505.FILE411.PDS, moved to PDS/LISTSY$
+2023-08-06 03:56:20.531150 - Found LISTSY@.txt (text/plain) in CBT.V505.FILE411.PDS, moved to PDS/LISTSY@
+2023-08-06 03:56:20.532133 - Found LISTSYM.txt (text/plain) in CBT.V505.FILE411.PDS, moved to PDS/LISTSYM
+2023-08-06 03:56:20.533069 - Found SLEE$.txt (text/plain) in CBT.V505.FILE411.PDS, moved to PDS/SLEE$
+2023-08-06 03:56:20.533956 - Found SLEE@.txt (text/plain) in CBT.V505.FILE411.PDS, moved to PDS/SLEE@
+2023-08-06 03:56:20.534924 - Found SLEEP.txt (text/plain) in CBT.V505.FILE411.PDS, moved to PDS/SLEEP
+2023-08-06 03:56:20.535882 - Found STEMPUL$.txt (text/plain) in CBT.V505.FILE411.PDS, moved to PDS/STEMPUL$
+2023-08-06 03:56:20.536721 - Found STEMPUL#.txt (text/plain) in CBT.V505.FILE411.PDS, moved to PDS/STEMPUL#
+2023-08-06 03:56:20.537686 - Found STEMPUL@.txt (text/plain) in CBT.V505.FILE411.PDS, moved to PDS/STEMPUL@
+2023-08-06 03:56:20.538632 - Found STEMPULL.txt (text/plain) in CBT.V505.FILE411.PDS, moved to PDS/STEMPULL
+2023-08-06 03:56:20.539513 - Found STEMPUS#.txt (text/plain) in CBT.V505.FILE411.PDS, moved to PDS/STEMPUS#
+2023-08-06 03:56:20.540322 - Found STEMPUSH.txt (text/plain) in CBT.V505.FILE411.PDS, moved to PDS/STEMPUSH
+2023-08-06 03:56:20.541105 - Found VARYDAS$.txt (text/plain) in CBT.V505.FILE411.PDS, moved to PDS/VARYDAS$
+2023-08-06 03:56:20.541931 - Found VARYDASD.txt (text/plain) in CBT.V505.FILE411.PDS, moved to PDS/VARYDASD
+2023-08-06 03:56:20.542702 - Found VIEWSYM.rexx (text/plain) in CBT.V505.FILE411.PDS, moved to PDS/VIEWSYM
+2023-08-06 03:56:20.543483 - Found VTOCUTI$.txt (text/plain) in CBT.V505.FILE411.PDS, moved to PDS/VTOCUTI$
+2023-08-06 03:56:20.543597 - No @FILExxx or @FILxxxx detected, creating README.md without extra info
